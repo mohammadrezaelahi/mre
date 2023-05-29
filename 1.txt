@@ -57,4 +57,9 @@ cp /home/iApp your-name
 بعدش باید دسترسی بدی
 chmod a+rwx your-name
 ---------------------------
-
+13,.
+nohup bash your-name &>/dev/null &
+----------------------------------
+14.
+ps -ef | grep your-name
+---------------------------------------
