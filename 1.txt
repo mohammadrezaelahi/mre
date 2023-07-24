@@ -92,3 +92,5 @@ chmod -R 755 folder
 
 بعد حذف میکنیم
 rm -r data
+
+621db8ca0baeba6a7172b475d589da166eaf40712ac6be0c94c9d04794e2df51d1903dab7df29f8b609507eb9fe75907b135f607261f0d3e1e45e9d2e4c237643f9c7cfb3a6e256aed88277d
