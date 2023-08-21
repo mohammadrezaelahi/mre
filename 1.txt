@@ -97,16 +97,17 @@ rm -r data
 
 
 --
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@31.172.67.43:443#Join%20Telegram%20%3A%20%40IP_CF%20%7C%20Estekgraji%20SS
+کانفیگ اهدایی:
+@Bamdad2013
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%F0%9F%87%A9%F0%9F%87%AAJoin%20Telegram%20%3A%20%40IP_CF%20%7C%20Estekgraji%20SS
+محدودیت حجم: ندارد
+محدودیت روز: ندارد
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#%F0%9F%87%A9%F0%9F%87%AAJoin%20Telegram%20%3A%20%40IP_CF%20%7C%20Estekgraji%20SS
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%F0%9F%87%A9%F0%9F%87%AAJoin%20Telegram%20%3A%20%40IP_CF%20%7C%20Estekgraji%20SS
+vless://f3277d41-6404-4307-9c9b-08614accb414@65.21.0.92:443?hiddify=1&sni=account.zula.ir&type=tcp&alpn=h2&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=8HT6kuhDozUNeMZbEbc9w-Vr6T9dao0m2Qw5Pay1DE8&sid=ee9b3344e531#account.zula.ir_reality_XTLS_direct_vless
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%F0%9F%87%A9%F0%9F%87%AAJoin%20Telegram%20%3A%20%40IP_CF%20%7C%20Estekgraji%20SS
+vless://f3277d41-6404-4307-9c9b-08614accb414@65.21.0.92:443?hiddify=1&sni=expat.com&type=tcp&alpn=h2&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=8HT6kuhDozUNeMZbEbc9w-Vr6T9dao0m2Qw5Pay1DE8&sid=ee9b3344e531#expat.com_reality_XTLS_direct_vless
 
-vless://67229061-7125-4490-93af-95112f4bd486@arvancloud.ir:443?hiddify=1&sni=god.sv3x1.lol&type=ws&alpn=http/1.1&path=/nVpFyArfMaHkoV31HPzgB61Dl8aA&host=god.sv3x1.lol&encryption=none&fp=chrome&headerType=None&security=tls#Join Telegram : @IP_CF | HP
+vless://ca1ecf58-c125-4543-bfe7-a9135a422f83@65.21.0.92:443?hiddify=1&sni=pinterest.com&type=tcp&alpn=h2&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=8HT6kuhDozUNeMZbEbc9w-Vr6T9dao0m2Qw5Pay1DE8&sid=ee9b3344e531#pinterest.com_reality_XTLS_direct_vless
 
-vless://cb21b074-97ce-46f5-adf3-805492c06642@85.159.228.109:5963?security=reality&encryption=none&pbk=jmv2L5rCzepRt0CaRAybsJAqCTOuV6UPtyT5161XpWQ&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.wow-freakz.com&sid=5a260a49#%40proxyforopeta
+vless://f3277d41-6404-4307-9c9b-08614accb414@65.21.0.92:443?hiddify=1&sni=ipsw.me&type=tcp&alpn=h2&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=8HT6kuhDozUNeMZbEbc9w-Vr6T9dao0m2Qw5Pay1DE8&sid=ee9b3344e531#ipsw.me_reality_XTLS_direct_vless`
