@@ -97,7 +97,10 @@ rm -r data
 
 
 --
+vless://874b15f4-7f43-436e-85d8-5142c3b748c0@140.82.39.11:443?security=reality&encryption=none&alpn=h2&pbk=d1H_0miDHBvjPkygZfwG3ckMIpeo7S18xDwwZ8AYRCE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=translate.google.com&sid=d55342c47ff449#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+REALITY+%7C+%40Capital_NET+%7C+DE%F0%9F%87%A9%F0%9F%87%AA+%7C+0%EF%B8%8F%E2%83%A31%EF%B8%8F%E2%83%A3
 
+
+vless://874b15f4-7f43-436e-85d8-5142c3b748c0@140.82.39.11:443?security=reality&encryption=none&alpn=h2&pbk=d1H_0miDHBvjPkygZfwG3ckMIpeo7S18xDwwZ8AYRCE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=translate.google.com&sid=d55342c47ff449#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+REALITY+%7C+%40Capital_NET+%7C+DE%F0%9F%87%A9%F0%9F%87%AA+%7C+0%EF%B8%8F%E2%83%A31%EF%B8%8F%E2%83%A3
 
 آزادی از اینجا میگذره:
 کانفیگ اهدایی:
